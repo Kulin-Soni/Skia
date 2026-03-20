@@ -81,7 +81,7 @@ function checkValidity() {
 }
 
 function cleanGhostRenderers(node: Element) {
-  const ghosts = node.querySelectorAll("ytd-continuation-item-renderer");
+  const ghosts = node.querySelectorAll("ytd-continuation-item-renderer.ytd-item-section-renderer");
   for (let i = 0; i < ghosts.length - 1; i++) {
     ghosts[i].remove();
   }
