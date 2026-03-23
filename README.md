@@ -16,11 +16,11 @@ Studies show that spammers evolve faster than viruses, making the [Dead Internet
 These spam comments take up ~40% of the comments in videos which are for all ages.<br />
 I could not find any good way of removing these comments, which wastes my time while reading comments, so I created this comment classifier.<br/>
 
-> ***Is this just another spam filter chrome extension ?***<br/>
-Nope! You choose the quality of comments, whether you want them to be good, bad or in between. This tool adapts to evolving spammers automatically as it uses semantic analysis model, and gives every comment rating on its quality. Everything runs offline.
+ ***Is this just another spam filter chrome extension ?***<br/>
+> Nope! You choose the quality of comments, whether you want them to be good, bad or in between. This tool adapts to evolving spammers automatically as it uses semantic analysis model, and gives every comment rating on its quality. Everything runs offline.
 
-> ***Is this tool fully perfect ?***<br />
-No. It may remove some comments which it classes as low effort but you find them interesting. Don't worry, you can always reduce its strictness.
+***Is this tool fully perfect ?***<br />
+> No. It may remove some comments which it classes as low effort but you find them interesting. Don't worry, you can always reduce its strictness.
 
 ### Demo
 ![Demo 1](https://c.tenor.com/HNObdUglgfgAAAAd/tenor.gif2)
@@ -45,4 +45,4 @@ Contributions are very much welcome! Please fork the repository and submit a pul
 ## Credits
 - [Xenova/all-MiniLM-L6-v2](https://huggingface.co/Xenova/all-MiniLM-L6-v2)
 
-and other contributors.
+  and other contributors.
