@@ -38,6 +38,11 @@ No. It may remove some comments which it classes as low effort but you find them
 If you want to build the extension from start, you can follow the [build guide](extension/README.md). If you intend to train the model weights, you can follow [training guide](trainer/README.md).
 
 ## License & Contributions
-This project is licensed under the [AGPL-3.0 License](LICENSE).
+This project and weights are licensed under the [AGPL-3.0 License](LICENSE).
 
 Contributions are very much welcome! Please fork the repository and submit a pull request with your changes, and I'll try to review, merge and publish promptly! 🤝
+
+## Credits
+- [Xenova/all-MiniLM-L6-v2](https://huggingface.co/Xenova/all-MiniLM-L6-v2)
+
+and other contributors.
