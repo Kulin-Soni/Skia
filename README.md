@@ -23,8 +23,16 @@ I could not find any good way of removing these comments, which wastes my time w
 > No. It may remove some comments which it classes as low effort but you find them interesting. Don't worry, you can always reduce its strictness.
 
 ### Demo
-![Demo 1](https://c.tenor.com/HNObdUglgfgAAAAd/tenor.gif2)
-![Demo 2](https://c.tenor.com/HNObdUglgfgAAAAd/tenor.gif2)
+
+**Extension popup**<br/>
+
+<img src="assets/popup.png" style="width:350" />
+
+<br />
+
+**Example usage**<br />
+
+<img src="assets/usage.gif" style="width:1000">
 
 
 
