@@ -26,7 +26,9 @@ I could not find any good way of removing these comments, which wastes my time w
 
 **Extension popup**<br/>
 
-<img src="assets/popup.png" style="width:350" />
+<div align="center">
+<img src="assets/popup.png" style="width:400" />
+</div>
 
 <br />
 
