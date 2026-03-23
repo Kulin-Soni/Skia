@@ -32,7 +32,7 @@ I could not find any good way of removing these comments, which wastes my time w
 
 **Example usage**<br />
 
-<img src="assets/usage.gif" style="width:1000">
+https://github.com/user-attachments/assets/3c114058-c9a4-464e-9121-3001496447be
 
 
 
