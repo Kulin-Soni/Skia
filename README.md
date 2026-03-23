@@ -24,19 +24,23 @@ I could not find any good way of removing these comments, which wastes my time w
 
 ### Demo
 
-**Extension popup**<br/>
 
 <div align="center">
+
+**Extension popup**<br/>
+
 <img src="assets/popup.png" style="width:400" />
 </div>
 
 <br />
 
+<div align="center">
+
 **Example usage**<br />
 
 https://github.com/user-attachments/assets/3c114058-c9a4-464e-9121-3001496447be
 
-
+</div>
 
 ## Setup
 1. Go to the store's installation page, and click install.
