@@ -1,4 +1,4 @@
-# Skia (Extension)
+# Sizzle (Extension)
 
 ## Install
 - Google Chrome Webstore

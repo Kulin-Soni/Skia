@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/banner.png" style="width:full" />
-<h1>Skia: Youtube Comments Classifier</h1>
-Skia is a tool and browser extension that automatically rates the quality of youtube comments and filters out unnecessary ones. Everything runs on your computer with very few resources.
+<h1>Sizzle: Youtube Comments Classifier</h1>
+Sizzle is a tool and browser extension that automatically rates the quality of youtube comments and filters out unnecessary ones. Everything runs on your computer with very few resources.
 </div>
 
 

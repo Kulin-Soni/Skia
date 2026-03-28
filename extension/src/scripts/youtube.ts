@@ -95,7 +95,7 @@ async function getRenderedComments(mutations: MutationRecord[]) {
         const text = span && extractText(span);
         if (text && node.matches("ytd-comment-thread-renderer")) {
           if (node instanceof HTMLElement) node.style.visibility = 'hidden';
-          const uuid = "skia" + crypto.randomUUID();
+          const uuid = "sizzle" + crypto.randomUUID();
           node.id = uuid;
           ClassifierPortConnection.send(text, uuid);
         }
@@ -165,10 +165,10 @@ async function addPageListener() {
 
 window.addEventListener("load", async () => {
   const data = await LocalStorage.get({
-    skia_enabled: true,
-    skia_threshold: 60,
+    sizzle_enabled: true,
+    sizzle_threshold: 60,
   }); // already handles when value is not available
-  enabled = data.skia_enabled as boolean;
-  threshold = data.skia_threshold as number;
+  enabled = data.sizzle_enabled as boolean;
+  threshold = data.sizzle_threshold as number;
   enabled && await addPageListener();
 });

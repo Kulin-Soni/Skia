@@ -1,5 +1,5 @@
-# Skia (Model)
-This directory contains all the code that was used to build the data, model and other back-end stuff for Skia.
+# Sizzle (Model)
+This directory contains all the code that was used to build the data, model and other back-end stuff for Sizzle.
 
 ## Folder Structure
 - `/labeled_data` : Contains all the data that was used to train the model.

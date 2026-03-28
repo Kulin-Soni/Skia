@@ -2,8 +2,8 @@ import { ConnectionStates } from "../types";
 import { z } from "zod";
 
 const LocalStorageData = z.object({
-  skia_enabled: z.boolean(),
-  skia_threshold: z.number(),
+  sizzle_enabled: z.boolean(),
+  sizzle_threshold: z.number(),
   onboarding: z.boolean(),
   connection_state: z.enum(ConnectionStates),
   connection_progress: z.number()

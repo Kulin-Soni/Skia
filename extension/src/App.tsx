@@ -15,11 +15,11 @@ function App({...props}: RenderData) {
   const [boarding, setBoarding] = useState<boolean>(props.boarding);
 
   useEffect(() => {
-    LocalStorage.set({ skia_enabled: isEnabled });
+    LocalStorage.set({ sizzle_enabled: isEnabled });
   }, [isEnabled]);
 
   useEffect(() => {
-    LocalStorage.set({ skia_threshold: qualityThreshold });
+    LocalStorage.set({ sizzle_threshold: qualityThreshold });
   }, [qualityThreshold]);
 
   useEffect(() => {
@@ -33,7 +33,7 @@ function App({...props}: RenderData) {
         <div className="z-10 w-full h-full flex flex-col justify-evenly items-center relative">
           <header className="w-full flex items-center justify-between px-5">
             <div className='flex flex-col'>
-              <span className='text-2xl text-white font-google_bold'>Skia</span>
+              <span className='text-2xl text-white font-google_bold'>Sizzle</span>
               <span className='text-[12px] font-google_semi text-zinc-400 font-semibold -mt-1 uppercase'>YT Comment Classifier</span>
             </div>
             <div className="flex items-center">

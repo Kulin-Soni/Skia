@@ -1,6 +1,6 @@
 {
-  "name":        "Skia: Comment Classifier",
-  "short_name":  "Skia",
+  "name":        "Sizzle: Comment Classifier",
+  "short_name":  "Sizzle",
   "description": "Filter out unnecessary comments from youtube videos.",
   "version":     "1.0.0",
   "manifest_version": 3,
